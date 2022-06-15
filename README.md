@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sefayet-Alam
-- 👀 I’m interested in Competitive Programming,App Development and web development...I'm also looking forward to learn more about robotics and artificial intelligence.
+- 👀 I’m interested in Competitive Programming,App Development and web development..Also looking forward to learn more about robotics and artificial intelligence.
 - 🌱 I’m currently learning Computer Science basics along with data structure algorithms...
 - 📫 How to reach me:'
 -  1.email:sefayetalam14@gmail.com...
