@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I believe good sense of humor can build good friendships.**
 
-- My CV and certificates: https://github.com/Sefayet-Alam/Achivemenets_-_Certificates- <br/>
+- ⚡ My CV and certificates: https://github.com/Sefayet-Alam/Achivemenets_-_Certificates- <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
