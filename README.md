@@ -33,7 +33,7 @@
 <a href="https://www.hackerrank.com/profile/sefayetalam14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sefayetalam14" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ruthless__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ruthless__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sefayetalam_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sefayetalam_14" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sefayet-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sefayet-alam" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sefayetalam14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sefayet-alam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sefayetalam14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sefayetalam14" height="30" width="40" /></a>
 </p>
 
