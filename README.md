@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khandoker Sefayet Alam</h1>
-<h3 align="center">A Competitive programmer, passionate MERN (full stack) developer and Machine Learning enthusiast from Bangladesh.CSE undergrad student@RUET || Competitive Programmer || Expert@Codeforces || 4 🌟 @Codechef || 6 Kyu(Green) @Atcoder || MERN beginner</h3>
+<h3 align="center">A Competitive programmer, passionate MERN (full stack) developer and Machine Learning enthusiast from Bangladesh.<br/> CSE undergrad student@RUET || Competitive Programmer || Expert@Codeforces || 4 🌟 @Codechef || 6 Kyu(Green) @Atcoder || MERN beginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefayet-alam&label=Profile%20views&color=0e75b6&style=flat" alt="sefayet-alam" /> </p>
 
