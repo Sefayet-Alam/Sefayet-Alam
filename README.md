@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khandoker Sefayet Alam</h1>
 <h3 align="center">A Competitive programmer, passionate MERN (full stack) developer and Machine Learning enthusiast from Bangladesh.<br/> CSE undergrad student@RUET || Competitive Programmer || Expert@Codeforces || 4 🌟 @Codechef || 6 Kyu(Green) @Atcoder || MERN beginner</h3>
 
-/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=sefayet-alam&label=Profile%20views&color=0e75b6&style=flat" alt="sefayet-alam" /> </p>*/
+
 
 <h3 class="heading-element" dir="auto">Total Profile Visitors 👀</h3><a id="user-content-total-profile-visitors-" class="anchor" aria-label="Permalink: Total Profile Visitors 👀" href="#total-profile-visitors-">
 
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3504f1555859c4489f0362ac288907ef862eef3fdf9a981d33efd44ba1da837/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f746f726971756c746f6e752f636f756e742e737667"><img src="https://camo.githubusercontent.com/d3504f1555859c4489f0362ac288907ef862eef3fdf9a981d33efd44ba1da837/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f746f726971756c746f6e752f636f756e742e737667" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/toriqultonu/count.svg" style="max-width: 100%;"></a></p>
-<p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/4739795f0f6ce281322ddc3d00bb9b3c3a3f5b4a176301a62a4aef3c1cbb02d6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746f726971756c746f6e75" alt="toriqultonu" data-canonical-src="https://github-profile-trophy.vercel.app/?username=toriqultonu" style="max-width: 100%;"></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sefayet-alam" alt="sefayet-alam" /></a> </p>
 
