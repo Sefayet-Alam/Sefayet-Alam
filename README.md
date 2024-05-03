@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sefayet-alam" alt="sefayet-alam" /></a> </p>
 
 <h3>About me:</h3>
+
 - 🔭 I’m Studying at **Rajshahi University of Engineering and Technology**
 
 - 🌱 I’m currently learning **Data structures and Algorithms, MERN Stack development, Machine learning beginner topics**
