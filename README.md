@@ -3,7 +3,7 @@
 
 
 
-<h3 class="heading-element" dir="auto">Total Profile Visitors 👀</h3><a id="user-content-total-profile-visitors-" class="anchor" aria-label="Permalink: Total Profile Visitors 👀" href="#total-profile-visitors-">
+<h3 class="heading-element" dir="auto">Total Profile Visitors 👀</h3><a id="user-content-total-profile-visitors-" class="anchor" aria-label="Permalink: Total Profile Visitors 👀" href="#total-profile-visitors-" >
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sefayet-alam" alt="sefayet-alam" /></a> </p>
