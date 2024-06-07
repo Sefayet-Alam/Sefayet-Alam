@@ -5,6 +5,7 @@
 
 <h3 class="heading-element" dir="auto">Total Profile Visitors 👀</h3><a id="user-content-total-profile-visitors-" class="anchor" aria-label="Permalink: Total Profile Visitors 👀" href="#total-profile-visitors-" >
 
+![](https://komarev.com/ghpvc/?username=your-Sefayet-Alam)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sefayet-alam" alt="sefayet-alam" /></a> </p>
 
@@ -20,7 +21,7 @@
 
 - 📫 How to reach me **sefayetalam14@gmail.com**
 
-- ⚡ Fun fact **I believe good sense of humor can build good friendships.**
+- ⚡ Fun fact **Did you know the first computer bug was an actual bug? In 1947, engineers found a moth causing issues in the Mark II computer at Harvard.**
 
 - ⚡ My CV and certificates: https://github.com/Sefayet-Alam/Achivemenets_-_Certificates- <br/>
 
