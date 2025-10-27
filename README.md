@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khandoker Sefayet Alam</h1>
-<h3 align="center">A Competitive programmer, passionate MERN (full stack) developer and Machine Learning enthusiast from Bangladesh.<br/> B.Sc in CSE student@RUET || Competitive Programmer || Expert@Codeforces || 4 🌟 @Codechef || 6 Kyu(Green) @Atcoder || MERN beginner</h3>
+<h3 align="center">A Competitive programmer, passionate MERN (full stack) developer and Machine Learning enthusiast from Bangladesh.<br/> B.Sc in CSE student@RUET || Competitive Programmer || Expert@Codeforces || 5 🌟 @Codechef || Cyan @Atcoder || MERN beginner</h3>
 
 
 
