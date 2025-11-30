@@ -98,8 +98,8 @@
 
 <br/>
 <br/>
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=sefayet-alam&show_icons=true&locale=en&layout=compact](https://github.com/Sefayet-Alam/Achivemenets_-_Certificates-/blob/main/image.png)" alt="sefayet-alam" /></p>
+<p><img align="left" src="https://github.com/Sefayet-Alam/Achivemenets_-_Certificates-/blob/main/image.png" alt="sefayet-alam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sefayet-alam&show_icons=true&locale=en" alt="sefayet-alam" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/Sefayet-Alam/Achivemenets_-_Certificates-/blob/main/image.png" alt="sefayet-alam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sefayet-alam&" alt="sefayet-alam" /></p>
