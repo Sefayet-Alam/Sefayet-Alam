@@ -127,8 +127,18 @@ Competitive Programmer | MERN Full Stack Developer | Machine Learning Enthusiast
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sefayet-alam&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sefayet-alam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sefayet-alam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefayet-alam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
