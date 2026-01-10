@@ -125,11 +125,3 @@ Competitive Programmer | MERN Full Stack Developer | Machine Learning Enthusiast
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefayet-alam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
-⭐️ <b>Crafted with passion by <a href="https://github.com/Sefayet-Alam">Sefayet-Alam</a></b>
