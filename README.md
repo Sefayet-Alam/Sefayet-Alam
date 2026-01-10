@@ -3,8 +3,7 @@
 ### Competitive Programmer | MERN (Full Stack) Developer | Machine Learning Enthusiast
 
 🎓 **B.Sc in Computer Science & Engineering** @ Rajshahi University of Engineering & Technology (RUET)  
-🏆 **ICPC Asia Dhaka Regionalist 2024**  
-🥇 **SRBD Code Contest Finalist 2025**  
+🏆 **ICPC Asia Dhaka Regionalist 2024,2025**  
 ⚔️ **Codeforces Expert | ⭐⭐⭐⭐⭐ CodeChef | AtCoder Cyan**
 
 🌐 **Portfolio:** https://sefayet-alam.vercel.app/
