@@ -55,7 +55,7 @@ Competitive Programmer | MERN Full Stack Developer | Machine Learning Enthusiast
 
 <p align="center">
 🚀 Explore all my projects here  
-👉 <a href="https://sefayet-alam.vercel.app/projects"><b>Portfolio Projects</b></a>
+👉 <a href="https://sefayet-alam.vercel.app/#projects"><b>Portfolio Projects</b></a>
 </p>
 
 **Project Domains**
