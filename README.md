@@ -6,8 +6,8 @@ Competitive Programmer | MERN Full Stack Developer | Machine Learning Enthusiast
 
 <p align="center">
 🎓 B.Sc in CSE @ <b>Rajshahi University of Engineering & Technology (RUET)</b><br/>
-🏆 ICPC Asia Dhaka Regionalist 2024 | 🥇 SRBD Code Contest Finalist 2025<br/>
-⚔️ <b>Codeforces Expert</b> | ⭐⭐⭐⭐⭐ CodeChef | AtCoder Cyan
+🏆 ICPC Asia Dhaka Regionalist 2024,2025 | 🥇 SRBD Code Contest Finalist 2025<br/>
+⚔️ <b>Codeforces Expert (1800+ max rating) </b> | ⭐⭐⭐⭐⭐ CodeChef | Leetcode Knight
 </p>
 
 <p align="center">
