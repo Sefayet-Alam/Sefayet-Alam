@@ -31,6 +31,7 @@ Competitive Programmer | MERN Full Stack Developer | Machine Learning Enthusiast
 - 🏆 **ICPC Asia Dhaka Regionalist 2024**
 - 🥇 **SRBD Code Contest Finalist 2025**
 - ⚔️ **Expert on Codeforces**
+- ⚔️ **Knight on Leetcode**
 - ⭐⭐⭐⭐⭐ **5★ Coder at CodeChef**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - 🤖 Interested in **Machine Learning & Deep Learning**
