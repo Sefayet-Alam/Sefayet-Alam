@@ -43,7 +43,7 @@ Competitive Programmer | MERN Full Stack Developer | Machine Learning Enthusiast
 - 🎓 B.Sc student in **Computer Science & Engineering (CSE)** at **RUET**
 - ⚔️ Passionate **Competitive Programmer**
 - 💻 **Full Stack Developer** (MERN, Django)
-- 🤖 Exploring **Machine Learning & AI**
+- 🤖 Interested in **NLP & CLIP**
 - ✍️ Writing blogs on Codeforces:  
   👉 https://codeforces.com/blog/Ruthless__
 - 📫 Reach me at: **sefayetalam14@gmail.com**
