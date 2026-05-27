@@ -36,16 +36,16 @@
 
 ---
 
-## 🔬 Research in Progress
+//## 🔬 Research in Progress
 
-> Building toward my first publications — undergraduate thesis plus two conference papers.
+//> Building toward my first publications — undergraduate thesis plus two conference papers.
 
-| Work | Focus Area | Status |
-| :--- | :--- | :---: |
-| 📝 **Thesis + Journal** | Sarcasm Detection | 🟢 Active |
-| 📄 **Conference Paper** | Cyberbullying Detection | 🟢 Active |
-| 📄 **Conference Paper** | Out-of-Context Image Detection | 🟢 Active |
-| ✅ **Foundations** | 100 Days of ML · Sentiment Analysis · PyTorch | Completed |
+//| Work | Focus Area | Status |
+//| :--- | :--- | :---: |
+//| 📝 **Thesis + Journal** | Sarcasm Detection | 🟢 Active |
+//| 📄 **Conference Paper** | Cyberbullying Detection | 🟢 Active |
+//| 📄 **Conference Paper** | Out-of-Context Image Detection | 🟢 Active |
+//| ✅ **Foundations** | 100 Days of ML · Sentiment Analysis · PyTorch | Completed |
 
 ---
 
